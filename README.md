@@ -3,6 +3,7 @@
 计算机毕业设计 校园闲置物品交易系统 二手商城小程序，前后端分离，
 <br>有登录、注册、在线聊天，发布物品，地址管理，优惠券领取等功能
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架，微信原生小程序
 2. 后端：nodejs express框架
@@ -46,7 +47,7 @@
 3. 扫一扫加我微信好友吧，请备注 二手商城小程序源码获取
 <img src="./preview/wx.jpg" style="width: 200px;padding-left:2em">
 
-
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 
 
 
